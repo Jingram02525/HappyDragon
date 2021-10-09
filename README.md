@@ -1,1 +1,2 @@
 # HappyDragon
+![HappyDragon](ScreenShot.png)
